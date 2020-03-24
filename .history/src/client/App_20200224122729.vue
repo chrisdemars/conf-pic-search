@@ -1,0 +1,15 @@
+<template>
+  <h1>HOLLA!!!</h1>
+</template>
+
+<script>
+export default {};
+</script>
+
+
+
+<style>
+body {
+  background-color: seagreen;
+}
+</style>
